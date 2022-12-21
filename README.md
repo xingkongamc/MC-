@@ -3,15 +3,16 @@
 **这个项目很小，只有很小的几率会持续更新**  
 **该项目采用python语言编写**  
 **支持服务端列表**  
+**插件马上支持**
 
 
 | 服务端 | 支持 |
 |--|--|
 |forge|√|
 |fabric|√|
-|paper|√|
-|purpur|√|
-|spigot|√|
+|paper|×|
+|purpur|×|
+|spigot|×|
 |mohist|×|
 |catserver|×|
 
